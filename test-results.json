@@ -1,0 +1,108 @@
+{
+  "stats": {
+    "suites": 10,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-10-21T13:43:13.804Z",
+    "end": "2021-10-21T13:43:17.488Z",
+    "duration": 3684
+  },
+  "tests": [
+    {
+      "title": "should return the cart with the new product and all the previous content",
+      "fullTitle": "API POST / should return the cart with the new product and all the previous content",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\cart\\cartTest.js",
+      "duration": 762,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return code 200",
+      "fullTitle": "API POST / should return code 200",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\home\\homeTest.js",
+      "duration": 723,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return code 200 for successfull login",
+      "fullTitle": "API POST /login should return code 200 for successfull login",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\login\\loginTest.js",
+      "duration": 732,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return code 200 for successfull registration",
+      "fullTitle": "API POST /register should return code 200 for successfull registration",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\registration\\registrationTest.js",
+      "duration": 718,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return the list with the products that meet the search parameter",
+      "fullTitle": "API POST / should return the list with the products that meet the search parameter",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\search\\searchTest.js",
+      "duration": 741,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should return the cart with the new product and all the previous content",
+      "fullTitle": "API POST / should return the cart with the new product and all the previous content",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\cart\\cartTest.js",
+      "duration": 762,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return code 200",
+      "fullTitle": "API POST / should return code 200",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\home\\homeTest.js",
+      "duration": 723,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return code 200 for successfull login",
+      "fullTitle": "API POST /login should return code 200 for successfull login",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\login\\loginTest.js",
+      "duration": 732,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return code 200 for successfull registration",
+      "fullTitle": "API POST /register should return code 200 for successfull registration",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\registration\\registrationTest.js",
+      "duration": 718,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should return the list with the products that meet the search parameter",
+      "fullTitle": "API POST / should return the list with the products that meet the search parameter",
+      "file": "C:\\Users\\demian\\Desktop\\prueba\\tests\\search\\searchTest.js",
+      "duration": 741,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ]
+}
